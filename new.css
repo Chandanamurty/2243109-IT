@@ -1,11 +1,13 @@
-button{
+button
+{
     transition: font-size  300ms;
     border-radius: 30%;
 }
-button:hover{
-     font-size: 20px;
-     border-radius: 45%;
-     color: rgb(112, 111, 111);
-                background-color: rgb(236, 182, 137);
+button:hover
+{
+    font-size: 20px;
+    border-radius: 45%;
+    color: rgb(112, 111, 111);
+    background-color: rgb(236, 182, 137);
 }
 Show quoted text
